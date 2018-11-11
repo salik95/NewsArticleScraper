@@ -1,0 +1,4 @@
+Collecting pymssql
+  Downloading https://files.pythonhosted.org/packages/fb/77/8f5fc8953ea9ac88a5e108ed1da059a1a59251537224a4853df587e9060c/pymssql-2.1.3-cp35-cp35m-manylinux1_x86_64.whl (1.2MB)
+Installing collected packages: pymssql
+Successfully installed pymssql-2.1.3
