@@ -18,7 +18,7 @@ jieba3k==0.35.1
 lxml==4.2.1
 nltk==3.3
 parsel==1.4.0
-Pillow==5.2.0
+Pillow==6.2.0
 pyasn1==0.4.2
 pyasn1-modules==0.2.1
 pycparser==2.18
