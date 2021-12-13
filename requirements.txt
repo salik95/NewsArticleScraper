@@ -15,7 +15,7 @@ hyperlink==18.0.0
 idna==2.6
 incremental==17.5.0
 jieba3k==0.35.1
-lxml==4.2.1
+lxml==4.6.5
 nltk==3.3
 parsel==1.4.0
 Pillow==5.2.0
